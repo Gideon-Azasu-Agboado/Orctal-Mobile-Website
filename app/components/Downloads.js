@@ -35,7 +35,7 @@ const Downloads = () => {
                     </div>
 
                     <div className='xl:pl-[150px] pb-[40px] xl:pb-[270px]'>
-                        <h1 className='text-blue-600 text-3xl sm:text-4xl xl:text-5xl pt-[90px] xl:pt-[190px]'>
+                        <h1 className='text-blue-600 text-2xl text-center sm:text-left sm:text-4xl xl:text-5xl pt-[90px] xl:pt-[190px]'>
                             Be A Part Of Us Today!!!
                         </h1>
 

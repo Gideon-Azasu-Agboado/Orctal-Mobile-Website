@@ -23,7 +23,7 @@ const Hero = () => {
         </div>
 
         <div className='px-[30px] sm:px-0 '>
-          <h1 className="text-blue-100 text-4xl xl:text-5xl font-medium tracking-wide text-center leading-normal xl:leading-normal mt-[100px]">
+          <h1 className="text-blue-100 text-3xl xl:text-5xl font-medium tracking-wide text-center leading-normal xl:leading-normal mt-[100px]">
             Turn Occasions into Events,
             <span className="text-blue-400"> Turn <br /> Events </span>
             into Memories
