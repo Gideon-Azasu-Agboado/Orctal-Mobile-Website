@@ -10,7 +10,7 @@ const Footer = () => {
                         About
                     </h1>
                     <p className='text-blue-300 pt-[30px] pr-[50px] xl:pr-[150px]'>
-                        to revolutionize event planning and venue booking by creating seamless connections between event centers, planners, and clients
+                        To revolutionize event planning and venue booking by creating seamless connections between event centers, planners, and clients
                     </p>
                 </div>
 
