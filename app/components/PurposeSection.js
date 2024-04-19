@@ -7,7 +7,7 @@ const PurposeSection = () => {
         <main>
             <div className='bg-cover bg-center sm:px-6 w-full bg-gradient-to-br from-blue-100 to-blue-300' id='purpose'>
                 <div className='flex flex-col sm:flex-row justify-center items-center  pt-[100px] xl:pt-[160px] px-[20px]'>
-                    <h1 className='text-center text-3xl sm:text-2xl xl:text-3xl text-blue-800'>
+                    <h1 className='text-center text-2xl xl:text-3xl text-blue-800'>
                         Anchoring Your Event Journey
                     </h1>
                     <Image

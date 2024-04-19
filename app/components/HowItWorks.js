@@ -11,7 +11,7 @@ const HowItWorks = () => {
         <main>
             <div className='bg-cover bg-center w-full' style={{ backgroundImage: `url(${bgImage.src})` }} id='howitworks'>
                 <div className='max-w-[1440px] m-auto md:px-6 py-[100px] xl:py-[180px] p-[20px] xl:p-0'>
-                    <h1 className='text-center text-3xl sm:text-2xl xl:text-3xl text-blue-300'>
+                    <h1 className='text-center text-2xl xl:text-3xl text-blue-300'>
                         How It Works
                     </h1>
 
@@ -24,7 +24,7 @@ const HowItWorks = () => {
                                     className='h-[70%] w-[70%]'
                                 />
                             </div>
-                            <h1 className='text-blue-600 text-2xl sm:text-xl xl:text-2xl mt-[50px]'>
+                            <h1 className='text-blue-600 text-xl xl:text-2xl mt-[50px]'>
                                 Download App
                             </h1>
 
@@ -34,7 +34,7 @@ const HowItWorks = () => {
                         </div>
 
                         <div className='group w-full sm:w-[50%] xl:w-[30%] mt-[50px] sm:mt-0 bg-gradient-to-br from-[#1d0f3b] to-[#0b031c] ease-in rounded-2xl p-10 hover:-translate-y-16 duration-150'>
-                            <h1 className='text-blue-600 text-2xl sm:text-xl xl:text-2xl mt-[50px]'>
+                            <h1 className='text-blue-600 text-xl xl:text-2xl mt-[50px]'>
                                 Register Account
                             </h1>
 
@@ -58,7 +58,7 @@ const HowItWorks = () => {
                                     className='h-[90%] w-[90%]'
                                 />
                             </div>
-                            <h1 className='text-blue-600 text-2xl sm:text-xl xl:text-2xl mt-[50px]'>
+                            <h1 className='text-blue-600 text-xl xl:text-2xl mt-[50px]'>
                                 Connect with others
                             </h1>
 

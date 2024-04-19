@@ -39,13 +39,13 @@ const Downloads = () => {
                             Be A Part Of Us Today!!!
                         </h1>
 
-                        <p className='text-blue-300 pt-[30px] '>
+                        <p className='text-blue-300 text-center sm:text-left pt-[30px] '>
                             Unlock a world of seamless event planning and booking
                             with Orctal. Download now and turn your events into
                             unforgettable experiences
                         </p>
 
-                        <div className='h-[50px] w-[200px] sm:h-[40px] sm:w-[150px] xl:h-[50px] xl:w-[200px] mt-[30px] bg-blue-950 hover:bg-blue-900 rounded flex justify-center items-center cursor-pointer hover:shadow-[0_0px_30px_rgba(0,0,255,0.25)]'>
+                        <div className='h-[50px] w-[200px] m-auto sm:h-[40px] sm:w-[150px] xl:h-[50px] xl:w-[200px] mt-[30px] bg-blue-950 hover:bg-blue-900 rounded flex justify-center items-center cursor-pointer hover:shadow-[0_0px_30px_rgba(0,0,255,0.25)]'>
                             <p className="text-blue-400">Download App</p>
                         </div>
                     </div>

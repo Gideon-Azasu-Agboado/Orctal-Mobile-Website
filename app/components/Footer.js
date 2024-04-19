@@ -19,16 +19,16 @@ const Footer = () => {
                         Links
                     </h1>
                     <ul className='flex flex-col xl:flex-row justify-between pt-[30px] w-[80%]'>
-                        <li className='text-blue-500 hover:text-blue-500 duration-100 ease-in pt-[10px] sm:pt-0'>
+                        <li className='text-blue-400 hover:text-blue-500 duration-100 ease-in pt-[10px] sm:pt-0'>
                         <Link href='#home'>Home</Link>
                         </li>
-                        <li className='text-blue-300 hover:text-blue-500 duration-100 ease-in pt-[10px] sm:pt-0'>
+                        <li className='text-blue-400 hover:text-blue-500 duration-100 ease-in pt-[10px] sm:pt-0'>
                         <Link href='#howitworks'>How it works</Link>
                         </li>
-                        <li className='text-blue-300 hover:text-blue-500 duration-100 ease-in pt-[10px] sm:pt-0'>
+                        <li className='text-blue-400 hover:text-blue-500 duration-100 ease-in pt-[10px] sm:pt-0'>
                         <Link href='#download'>Downloads</Link>
                         </li>
-                        <li className='text-blue-300 hover:text-blue-500 duration-100 ease-in pt-[10px] sm:pt-0'>
+                        <li className='text-blue-400 hover:text-blue-500 duration-100 ease-in pt-[10px] sm:pt-0'>
                         <Link href='#purpose'>About</Link>
                         </li>
                     </ul>

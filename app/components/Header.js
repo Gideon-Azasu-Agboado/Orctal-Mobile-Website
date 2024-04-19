@@ -11,7 +11,7 @@ const Header = () => {
     const [show, setShow] = useState(false)
 
     return (
-        <div className='ease-in duration-300 sm:py-[80px] py-[70px]'>
+        <div className='ease-in duration-300 sm:py-[80px] py-[50px]'>
             <div className='lg:block hidden'>
                 <div className=" max-w-[1440px] m-auto flex items-center">
                     <Link href='/' className=" items-center flex flex-row w-[150px] justify-between">
