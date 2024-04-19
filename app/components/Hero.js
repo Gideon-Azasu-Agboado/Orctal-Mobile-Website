@@ -10,7 +10,7 @@ import Header from "./Header";
 const Hero = () => {
   return (
     <main>
-      <div className='bg-cover bg-center w-full pb-[420px] sm:pb-[330px] xl:pb-[450px]' style={{ backgroundImage: `url(${bgImage.src})` }} id='home'>
+      <div className='bg-cover relative bg-center w-full pb-[420px] sm:pb-[330px] xl:pb-[450px]' style={{ backgroundImage: `url(${bgImage.src})` }} id='home'>
         <Header />
 
         <div className="hidden xl:flex justify-end top-[-200px] right-[-250px] absolute -z-10 sm:z-10">
@@ -56,8 +56,6 @@ const Hero = () => {
           />
         </div>
       </div>
-
-
     </main>
   )
 }
